@@ -9,7 +9,7 @@ void main()
     {
         scanf("%d",&a[i]);
     }
-    printf("\n The repeated Numbers are:");
+    printf("\n The unique Numbers are:");
     for(i=0;i<n-1;i++)
     {
         count=0;
